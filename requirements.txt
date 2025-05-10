@@ -1,0 +1,12 @@
+streamlit
+openai
+python-dotenv
+PyMuPDF
+unstructured[local-inference] # Includes paddleocr and other dependencies for local processing
+# For paddleocr specifically, you might need to install paddlepaddle separately if it doesn't come with unstructured's extras
+# pip install paddlepaddle # or paddlepaddle-gpu
+# unstructured.io can be heavy. If you want a lighter setup:
+# unstructured
+# pdfminer.six # for unstructured
+# pytesseract # for unstructured if not using paddle
+# And install Tesseract OCR engine separately on your system
