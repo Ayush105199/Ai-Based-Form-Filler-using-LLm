@@ -1,0 +1,20 @@
+{
+    "firstName": "Ayush",
+    "lastName": "Kesarwani",
+    "fullName": "Ayush kesarwani ",
+    "dateOfBirth": "2003-05-03",
+    "emailAddress": "ayushkesarwani299gmail.com",
+    "phoneNumber": "+91 9305466889",
+    "streetAddress": "knowledge park 1 ",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "zipCode": "201310",
+    "country": "India",
+    "occupation": "Software Engineer",
+    "nationality": "Indian",
+    "passportNumber": "X12345678",
+    "passportIssueDate": "2020-06-01",
+    "passportExpiryDate": "2030-05-31",
+    "taxID": "987-654-321",
+    "gender": "Male"
+}
